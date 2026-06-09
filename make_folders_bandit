@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+mkdir -p ./bandit{1..34}
+
+
